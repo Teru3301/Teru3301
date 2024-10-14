@@ -15,4 +15,4 @@
 > Что надо курить что-бы придумать GoLang?
 
 ### Это счётчик посещений моего гита 😎
-![:Teru3301](https://count.getloli.com/get/@:Teru3301?theme=moebooru_h)
+![:Teru3301](https://count.getloli.com/get/@:Teru3301?theme=moebooru-h)
