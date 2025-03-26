@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Привет,+добро+пожаловать+на+мой+GitHub!;Обязательно+посмотри+мои+репозитории!;Сон+-+это+лучшее,+что+у+нас+есть!;Не+забудь+подписаться,+мне+будет+очень+приятно)&font=Fira%20Code&center=true&width=600&height=65&duration=4000&pause=1000" alt="Анимированный текст">
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teru3301&show_icons=true&theme=blue-green)
 
 ### Немного обо мне
